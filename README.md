@@ -24,7 +24,7 @@ This repository will provide a way to learn python and Machine Learning through 
 
 1. Clone this repository 
 2. run each of the .ipynb by running jupyter notebook
-3. You can install jupyter notebook by 
-    $ pip install jupyter
+3. You can install jupyter notebook by <br>
+   <em> $ pip install jupyter</em>
 4. start the tutorial from 1_environment_setup.ipynb and advance accordingly.
 
