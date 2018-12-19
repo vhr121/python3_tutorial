@@ -28,4 +28,4 @@ This repository will provide a way to learn python and Machine Learning through 
    <em> $ pip install jupyter</em>
 4. start the tutorial from 1_environment_setup.ipynb and advance accordingly.
 
-For detailed information do check this out: <a href="https://medium.com/the-renaissance-developer/python-101-the-basics-441https://medium.com/the-renaissance-developer/python-101-the-basics-441136fb7cc3136fb7cc3">https://medium.com/the-renaissance-developer/python-101-the-basics-441136fb7cc3</a>
+For detailed information do check this post: <a href="https://medium.com/the-renaissance-developer/python-101-the-basics-441https://medium.com/the-renaissance-developer/python-101-the-basics-441136fb7cc3136fb7cc3">https://medium.com/the-renaissance-developer/python-101-the-basics-441136fb7cc3</a>
