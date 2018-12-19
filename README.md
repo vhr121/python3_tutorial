@@ -1,4 +1,4 @@
-<h2>python3_tutorial</h2>
+<h2>Python for Machine Learning and Data Science</h2>
 
 This repository will provide a way to learn python and Machine Learning through doing. 
 
